@@ -111,7 +111,7 @@ const calculation = async () =>{
   const add = await addition(2000,mul) //4000
   const sub = await subtraction(add,2500) //1500
   printing(sub); //1500
-}
+} 
 
 calculation();
 
